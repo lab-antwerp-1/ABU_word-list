@@ -1,0 +1,11 @@
+@import url('./other-file.css');
+
+#root {
+  text-align: center;
+  margin-top: 250px;
+}
+#list-container {
+    margin: auto auto;
+    max-width: 250px;
+    text-align: left;
+  }
